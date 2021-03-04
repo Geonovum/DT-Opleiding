@@ -83,12 +83,12 @@ var respecConfig =
   authors: 
   [
     {
-      name:       "Naam Auteur-1",
+      name:       "Tyora",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
     {
-      name:       "Naam Auteur-2",
+      name:       "Derk",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
