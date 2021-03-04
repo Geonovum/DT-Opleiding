@@ -1,2 +1,2 @@
 # DT-Opleiding
-Oefenrepository
+Oefenrepository voor Derk en Tyora

@@ -1,6 +1,6 @@
 ## Inleiding
 
-*Hier de inleiding, een generieke tekst over het onderwerp van het rapport, de omgeving van eht rapport, enz ...* 
+*Hier de inleiding, een generieke tekst over het onderwerp van het rapport, de omgeving van het rapport, enz ...* 
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
 Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
